@@ -1,0 +1,14 @@
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\bin\Debug\net6.0\proverka1.exe
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\bin\Debug\net6.0\proverka1.deps.json
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\bin\Debug\net6.0\proverka1.runtimeconfig.json
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\bin\Debug\net6.0\proverka1.dll
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\bin\Debug\net6.0\proverka1.pdb
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\obj\Debug\net6.0\proverka1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\obj\Debug\net6.0\proverka1.AssemblyInfoInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\obj\Debug\net6.0\proverka1.AssemblyInfo.cs
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\obj\Debug\net6.0\proverka1.csproj.CoreCompileInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\obj\Debug\net6.0\proverka1.dll
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\obj\Debug\net6.0\refint\proverka1.dll
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\obj\Debug\net6.0\proverka1.pdb
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\obj\Debug\net6.0\proverka1.genruntimeconfig.cache
+C:\Users\MSI-MODERN-14\source\repos\proverka1\proverka1\obj\Debug\net6.0\ref\proverka1.dll
