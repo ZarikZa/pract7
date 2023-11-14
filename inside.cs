@@ -18,7 +18,7 @@ namespace proverka1
             {
                 Console.WriteLine("  " + driveInfo.Name + "   Доступно: " + driveInfo.TotalFreeSpace/1073741824 + " Гбайт из "  + driveInfo.TotalSize/1073741824);
             }
-            pos = strelka.show(3, disk.Length);
+            pos = strelka.show(3, disk.Length+3);
             return disk[pos-3];
         }
         public static void info(string papka)
